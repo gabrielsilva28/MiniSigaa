@@ -1,0 +1,3 @@
+Nome: bob
+Notas: fisica3 - 10.0
+Notas: lp2 - 10.0
